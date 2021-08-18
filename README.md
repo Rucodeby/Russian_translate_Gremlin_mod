@@ -9,3 +9,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1722712533
 
 - Архив мода в расширении jar (Пример Lobotomy.jar). 
 
+###### Видеоинструкция
+
+https://www.youtube.com/watch?v=bBMtYdGAk0g
